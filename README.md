@@ -1,7 +1,7 @@
-#Arrays JS
+# Arrays JS
 
 1. `console.log()` the length of the following array:
-    const lettersArray = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'];
+    `const lettersArray = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'];`
 
 2. using the above mentioned `lettersArray`, check if the length of the array is an ***odd*** or ***even*** number, and `console.log()` the result.
 
@@ -13,10 +13,10 @@
 
 6. Loop over the following arrays, and `console.log()` the item both arrays have in common:
 
-    const arr1 = ['tree', 'river', 'mountain'];
-    const arr2 = ['ocean', 'tree', 'sand'];
+    `const arr1 = ['tree', 'river', 'mountain'];`
+    `const arr2 = ['ocean', 'tree', 'sand'];`
 
 7. create an array `colorsArray` that is the result of the combination of `colorsArray1` and `colorsArray2`, but don't include repeated values.
 
-    const colorsArray1 = ['yellow', 'red', 'blue', 'orange'];
-    const colorsArray2 = ['blue', 'green', 'white', 'yellow'];
+    `const colorsArray1 = ['yellow', 'red', 'blue', 'orange'];`
+    `const colorsArray2 = ['blue', 'green', 'white', 'yellow'];`
