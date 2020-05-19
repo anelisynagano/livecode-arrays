@@ -11,10 +11,10 @@
 
 5. `console.log()` each item from the `lettersArray` without using a ***for loop***.
 
-6. Loop over the following arrays, and `console.log()` the item both arrays have in common:
+6. Loop over the following arrays, and `console.log()` the number of items that repeat on both arrays:
 
-    `const arr1 = ['tree', 'river', 'mountain'];`
-    `const arr2 = ['ocean', 'tree', 'sand'];`
+    `const arr1 = ['tree', 'river', 'mountain', 'ocean'];`
+    `const arr2 = ['ocean', 'tree', 'sand', 'mountain'];`
 
 7. create an array `colorsArray` that is the result of the combination of `colorsArray1` and `colorsArray2`, but don't include repeated values.
 
